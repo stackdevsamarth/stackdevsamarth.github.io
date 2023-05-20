@@ -25,7 +25,7 @@ A Full stack developer, Trainer & Freelancer, I'm mainly skilled with front and 
 
 
 I build lots of demos and tutorials for Trainings [@stackdevsamarth](https://github.com/stackdevsamarth), I provide free training on stack development & Coding languages.
-I work as web Developer, check out [samarthmishra.in](https://www.).
+I work as web Developer, check out [samarthmishra.in](https://stackdevsamarth.github.io/).
 
  [Know More About Me](https://) 🎉
 
