@@ -1,14 +1,13 @@
 # Hey, I'm Samarth (@stackdevsamarth)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stackdevsamarth?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=stackdevsamarth)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCS1NeZF0Or2E1RAV9hQJz3g?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCIb08aF5eQB0Ty3zKtjEYqw?sub_confirmation=1) [![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=theonlysamarth)
+[![LINKEDIN](https://linkedin.com/img/githubbutton_sm.svg)](https://www.linkedin.com/in/stackdevsamarth)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](LINKHERE)
-
-<a href="https://twitter.com/theonlysamarth">
+<a href="https://twitter.com/stackdevsamarth">
   <img align="left" alt="Samarth Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/thesamarthmishra">
+<a href="https://www.linkedin.com/in/stackdevsamarth">
   <img align="left" alt="Samarth LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -41,7 +40,7 @@ I work as web Developer, check out [samarthmishra.in](https://www.).
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started youtube channel and now i have Some videos and teaching different group of developers online free.
 - 📫 How to reach me: linkedin: thesamarthmishra;
-- 📝[Resume](https://)
+- 📝[Resume](httpshttps://drive.google.com/file/d/16ighlMjEdZ7ZrN_YLNhkXnL-zr4XN2hl/view?usp=share_link&usp=embed_facebook&usp=embed_facebook)
 
 **Languages and Tools:**  
 
