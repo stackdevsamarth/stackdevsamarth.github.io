@@ -37,8 +37,8 @@ I work as web Developer, check out [samarthmishra.in](https://www.).
 - 🤔 I provide training to students on frontend and Full stack technologies.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started youtube channel and now i have Some videos and teaching different group of developers online free.
-- 📫 How to reach me: linkedin: thesamarthmishra;
-- 📝[Resume](httpshttps://drive.google.com/file/d/16ighlMjEdZ7ZrN_YLNhkXnL-zr4XN2hl/view?usp=share_link&usp=embed_facebook&usp=embed_facebook)
+- 📫 How to reach me: linkedin: stackdevsamarth;
+- 📝[Resume](https://drive.google.com/file/d/16ighlMjEdZ7ZrN_YLNhkXnL-zr4XN2hl/view?usp=share_link&usp=embed_facebook&usp=embed_facebook)
 
 **Languages and Tools:**  
 
