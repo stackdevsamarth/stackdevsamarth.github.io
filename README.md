@@ -1,7 +1,7 @@
 # Hey, I'm Samarth (@stackdevsamarth)
 [![Twitter Follow](https://img.shields.io/twitter/follow/stackdevsamarth?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=stackdevsamarth)
 
-[![LINKEDIN])](https://www.linkedin.com/in/stackdevsamarth)
+[LINKEDIN](https://www.linkedin.com/in/stackdevsamarth)
 
 <a href="https://twitter.com/stackdevsamarth">
   <img align="left" alt="Samarth Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
